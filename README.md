@@ -8,20 +8,26 @@ Stay up to date by following [@apilayernet](https://twitter.com/apilayernet) on 
 
 ## Features & Integration
 
-* **Real-time Crypto Data**:
-Get real-time and historical cryptocurrency exchange rates enriched with additional data for 385+ coins.
+* **Location Data**:
+Get real-time geolocation data for IPv4 and IPv6 addresses from all around the world.
 
-* **Historical Rates**:
-Query the coinlayer API for historical crypto data all the way back to the year of 2001. 
+* **HTTPS**:
+Data streams from and to the ipapi service are secured using 256-bit HTTPS encryption. 
 
-* **Currency Conversion Endpoint**:
-Convert any amount between crypto and fiat currencies via the coinlayer API's [Conversion Endpoint](https://coinlayer.com/documentation#conversion). 
+* **Currency Data**:
+Detect the currency associated with any IP address you process. You can learn more about Currency Data here: [ipapi.com/documentation#standard_lookup](https://ipapi.com/documentation#standard_lookup)
 
-* **Time-Frame Queries**:
-Retrieve time-series cryptocurrency data via the API's [Time-Frame Endpoint](https://coinlayer.com/documentation#timeframe). 
+* **Time Zone Data**:
+Detect the currency associated with any IP address you process. You can learn more about Currency Data here: [ipapi.com/documentation#standard_lookup](https://ipapi.com/documentation#standard_lookup)
 
-* **Currency-Change Queries**:
-Request cryptocurrency fluctuation data within specific periods via the API's [Change Endpoint](https://coinlayer.com/documentation#change). 
+* **Conection Data**:
+Detect the ASN and ISP of any IP address you process. You can learn more about Currency Data here: [ipapi.com/documentation#standard_lookup](https://ipapi.com/documentation#standard_lookup)
+
+* **Security Data**:
+Detect Risk Assessment values for IP addresses, including TOR Network detection. You can learn more about Security Data here: [ipapi.com/documentation#standard_lookup](https://ipapi.com/documentation#enable_security_data)
+
+* **Bulk Lookups**:
+Request multiple IP addresses in bulk using the Bulk Endpoint. You can learn more about Bulk Requests here: [ipapi.com/documentation#bulk_lookup](https://ipapi.com/documentation#bulk_lookup)
 
 * **More Options**:
 Request only specific cryptocurrencies, convert them into up to 166 fiat currencies, and much more.
@@ -37,4 +43,4 @@ Need any assistance? [Get in touch with Customer Support](mailto:support@coinlay
 
 ## Legal
 
-All usage of the coinlayer website, API, and services is subject to the [coinlayer Terms & Conditions](https://coinlayer.com/terms) and all annexed legal documents and agreements.
+All usage of the ipapi website, API, and services is subject to the [ipapi Terms & Conditions](https://ipapi.com/terms) and all annexed legal documents and agreements.
