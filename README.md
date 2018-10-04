@@ -32,14 +32,14 @@ Request multiple IP addresses in bulk using the Bulk Endpoint. You can learn mor
 * **More Options**:
 Request only specific cryptocurrencies, convert them into up to 166 fiat currencies, and much more.
 
-[Sign up for the Basic Plan](https://coinlayer.com/signup/basic) to get your API Access Key and use the API at premium level.
+[Sign up for the Basic Plan](https://ipapi.com/signup/basic) to get your API Access Key and use the API at premium level.
 
 ## In-depth Documentation
 
-An in-depth API documentation, including interactive code examples and extensive descriptions can be found at [coinlayer.com/documentation](https://coinlayer.com/documentation)
+An in-depth API documentation, including interactive code examples and extensive descriptions can be found at [ipapi.com/documentation](https://ipapi.com/documentation)
 
 ## Customer Support
-Need any assistance? [Get in touch with Customer Support](mailto:support@coinlayer.com).
+Need any assistance? [Get in touch with Customer Support](mailto:support@ipapi.com).
 
 ## Legal
 
